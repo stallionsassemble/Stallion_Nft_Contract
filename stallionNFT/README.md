@@ -1,4 +1,4 @@
-# Soroban Project
+# Stallion NFT, whitelisting contract
 
 ## Project Structure
 
@@ -6,7 +6,7 @@ This repository uses the recommended structure for a Soroban project:
 ```text
 .
 ├── contracts
-│   └── hello_world
+│   └── stallion
 │       ├── src
 │       │   ├── lib.rs
 │       │   └── test.rs
